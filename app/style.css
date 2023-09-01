@@ -13,13 +13,21 @@
     
 
 }
-h2{
-    left: 700px;
+#plc{
+    position: absolute;
+    left: 800;
+    margin-top: auto;
+    color: white;
 }
 
 .flex{
    display: flex;
    justify-content:space-around ;
+   color: white;
+}
+.flex img{
+    padding: 20%;
+    border-radius: 50%;
 }
 
 #heading
@@ -29,13 +37,15 @@ h2{
     left: 700px;
 }
 
-#second-part{
-    background-color: aliceblue;
+.second-section{
+    
+    background: linear-gradient(45deg,rgb(233, 106, 15),rgb(6, 71, 235));
 }
 
 
-.card{
-    
+
+.third{
+    margin-top: 20px;
     width: 400px;
     margin-left: 15px;
     margin-right: auto;
@@ -43,8 +53,8 @@ h2{
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: rgb(119, 176, 232);
-    color: #2b2839;
+    background: linear-gradient(45deg,rgb(233, 106, 15),rgb(6, 71, 235));
+    color: white;
     border-bottom: 2px solid #d8cefe;
     margin-left: auto;
 }

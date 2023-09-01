@@ -3,3 +3,5 @@
 ## Added images the second divition
 
 ## added card to the third divition
+
+## added styles and updated
